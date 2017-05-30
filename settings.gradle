@@ -4,3 +4,5 @@ include 'livingdoc-engine'
 include 'livingdoc-fixture-api'
 include 'livingdoc-fixture-converter'
 include 'livingdoc-junit-engine'
+include 'test-sandbox'
+
